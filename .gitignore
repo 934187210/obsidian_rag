@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Obsidian local state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+
+# Local assistant/tool state
+.claude/
+.claudian/
